@@ -1,0 +1,14 @@
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\bin\Debug\net8.0-windows\ExportFonts.exe
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\bin\Debug\net8.0-windows\ExportFonts.deps.json
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\bin\Debug\net8.0-windows\ExportFonts.runtimeconfig.json
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\bin\Debug\net8.0-windows\ExportFonts.dll
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\bin\Debug\net8.0-windows\ExportFonts.pdb
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.AssemblyInfoInputs.cache
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.AssemblyInfo.cs
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.csproj.CoreCompileInputs.cache
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.dll
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\refint\ExportFonts.dll
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.pdb
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ExportFonts.genruntimeconfig.cache
+C:\Users\Nasir Shahbaz\source\repos\ExportFonts\ExportFonts\obj\Debug\net8.0-windows\ref\ExportFonts.dll
