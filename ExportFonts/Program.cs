@@ -190,7 +190,7 @@ namespace ExportFonts
 
                 Console.WriteLine("Restarting Rainmeter...");
                 Process.Start("Rainmeter.exe");
-                Console.ReadLine();
+               
             }
             catch (Exception ex)
             {
